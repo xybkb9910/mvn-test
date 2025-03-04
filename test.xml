@@ -1,0 +1,9 @@
+<suite name = "Suite">
+    <test name  = "Test">
+        //接口
+        <classes>
+            <class name = "org.example.httptest.ApiTests"/>
+            <class name = "org.example.until.ExcelUntil"/>
+        </classes>
+    </test>
+</suite>
