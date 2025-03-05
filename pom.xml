@@ -166,7 +166,7 @@
                 <artifactId>maven-surefire-plugin</artifactId>
                 <configuration>
                     <suiteXmlFiles>
-                        <suiteXmlFile>testng.xml</suiteXmlFile> <!-- 指定 TestNG 配置文件 -->
+                        <suiteXmlFile>test.xml</suiteXmlFile> <!-- 指定 TestNG 配置文件 -->
                     </suiteXmlFiles>
                 </configuration>
             </plugin>
