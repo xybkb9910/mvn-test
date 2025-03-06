@@ -2,8 +2,8 @@
 <suite name="Example Suite">
     <test name  = "Test">
         <classes>
-            <class name = "example.httptest.ApiTests"/>
-            <class name = "example.until.ExcelUntil"/>
+            <class name = "org.example.httptest.ApiTests"/>
+            <class name = "org.example.until.ExcelUntil"/>
         </classes>
     </test>
 </suite>
